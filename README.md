@@ -127,7 +127,7 @@ The To-Be process keeps the applicant submission step outside the automation, be
 ### High-Level As-Is Process Map
 
 <p align="center">
-  <img src="Process_Maps/high-level-as-is-process.png" alt="High-level as-is process map" width="1000">
+  <img src="Process_Maps/high-level-as-is-process.png" alt="High-level as-is process map" width="650">
 </p>
 
 <p align="justify">
@@ -137,7 +137,7 @@ This high-level map summarizes the original manual workflow, starting from loan 
 ### Detailed As-Is Process Map
 
 <p align="center">
-  <img src="Process_Maps/detailed-as-is-process.png" alt="Detailed as-is process map" width="1000">
+  <img src="Process_Maps/detailed-as-is-process.png" alt="Detailed as-is process map" width="650">
 </p>
 
 <p align="justify">
