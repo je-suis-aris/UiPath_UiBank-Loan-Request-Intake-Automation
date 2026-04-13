@@ -75,7 +75,7 @@ Open the full PDD here:
 </p>
 
 <p>
-  <a href="documentation/PDD_LOAN_REQUEST_INTAKE,_CRITERIA_VALIDATION_and_APPROVAL_AUTOMATION.pdf">
+  <a href="Documentation/PDD_LOAN_REQUEST_INTAKE,_CRITERIA_VALIDATION_and_APPROVAL_AUTOMATION.pdf">
     Open the Process Design Document (PDF)
   </a>
 </p>
