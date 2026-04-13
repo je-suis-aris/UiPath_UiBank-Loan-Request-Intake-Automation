@@ -147,7 +147,7 @@ This detailed map breaks the manual process into its operational steps across th
 ### Detailed To-Be Process Map
 
 <p align="center">
-  <img src="Process_Maps/detailed-to-be-process.png" alt="Detailed to-be process map" width="1000">
+  <img src="Process_Maps/detailed-to-be-process.png" alt="Detailed to-be process map" width="650">
 </p>
 
 <p align="justify">
